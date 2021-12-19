@@ -15,4 +15,5 @@ _typeversion_ = [BETA]<br>
 3. Run <code>setup.py</code><br>
 4. End
 # Donate
-qiwi.com/n/SOSISKA
+qiwi.com/n/SOSISKA<br>
+Copy link and paste into any browser
