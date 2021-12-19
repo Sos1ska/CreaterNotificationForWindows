@@ -4,6 +4,9 @@
 # |----=== Code: CreaterNotificationForWindows ===----                                                #
 #  ----=== Link Code: https://github.com/Sos1ska/CreaterNotificationForWindows ===----|               #
 
+_version_ = 0.1
+_typeversion_ = '[BETA]'
+
 vbOKOnly = "vbOKOnly"
 vbOKCancel = "vbOKCancel"
 vbAbortRetryIgnore = "vbAbortRetryIgnore"
