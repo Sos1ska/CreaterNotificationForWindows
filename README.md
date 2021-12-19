@@ -8,4 +8,10 @@ Also, you will soon be able to leave executable vbs scripts next to the executab
 ![Fail-tests](https://img.shields.io/badge/Fail%20Test-5-red)
 # Version
 _version_ = 0.1<br>
-_typeversion_ = [BETA]
+_typeversion_ = [BETA]<br>
+# Install 
+1. Follow the link <code>https://github.com/Sos1ska/CreaterNotificationForWindows/archive/refs/heads/sos-utils.zip</code><br>
+2. Unzip zip file to download folder<br>
+3. Run <code>setup.py</code><br>
+4. End
+# Donate
