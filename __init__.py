@@ -1,4 +1,4 @@
-from .CreaterNotificationForWindows import \
+from .CreaterNotification import \
     MainCode_CreaterNotificationForWindows
 from .ListParametersMSG import (vbAbortRetryIgnore, vbApplicationModal,
                                 vbCritical, vbDefaultButton1, vbDefaultButton2,
