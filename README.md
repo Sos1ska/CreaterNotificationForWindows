@@ -3,6 +3,8 @@
 # CreaterNotificationForWindows
 This code is intended to create a vbs script in the form of a message for Windows.
 # Tests
-[![Total-tests](https://img.shields.io/badge/Total%20Test-20-brightgreen)]
-[![Fail-tests](https://img.shields.io/badge/Fail%20Test-5-red)]
-# 
+![Total-tests](https://img.shields.io/badge/Total%20Test-20-brightgreen)
+![Fail-tests](https://img.shields.io/badge/Fail%20Test-5-red)
+# Version
+_version_ = 0.1
+_typeversion_ = [BETA]
