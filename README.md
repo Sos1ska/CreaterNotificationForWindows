@@ -15,3 +15,4 @@ _typeversion_ = [BETA]<br>
 3. Run <code>setup.py</code><br>
 4. End
 # Donate
+qiwi.com/n/SOSISKA
