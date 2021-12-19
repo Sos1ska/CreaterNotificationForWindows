@@ -33,5 +33,5 @@ Copy link and paste into any browser
 1. <code>from CreaterNotificationForWindows import TestStart</code><br>
 2. <code>TestStart()</code><br>
 # Soon
-The 'log' argument - This argument will output information about the work of the code<br>
-The 'win10' argument - This argument can generate notifications for Windows 10 + icon<br>
+The '<code>log</code>' argument - This argument will output information about the work of the code<br>
+The '<code>win10</code>' argument - This argument can generate notifications for Windows 10 + icon<br>
