@@ -17,3 +17,21 @@ _typeversion_ = [BETA]<br>
 # Donate
 qiwi.com/n/SOSISKA<br>
 Copy link and paste into any browser
+# Use
+1. <code>from CreaterNotificationForWindows import MainCode_CreaterNotificationForWindows as Notification</code><br>
+2. <code>from CreaterNotificationForWindows import (vbAbortRetryIgnore, vbApplicationModal,
+                                                    vbCritical, vbDefaultButton1, vbDefaultButton2,
+                                                    vbDefaultButton3, vbDefaultButton4,
+                                                    vbExclamation, vbInformation,
+                                                    vbMsgBoxHelpButton, vbMsgBoxRight,
+                                                    vbMsgBoxRtlReading, vbMsgBoxSetForeground,
+                                                    vbOKCancel, vbOKOnly, vbQuestion,
+                                                    vbRetryCancel, vbSystemModal, vbYesNo,
+                                                    vbYesNoCancel)</code><br>
+3. <code>Notification().CreateNotification('Text', 'Title', ParametersMSG, False)</code> True does not work<br>
+# Start Test
+1. <code>from CreaterNotificationForWindows import TestStart</code><br>
+2. <code>TestStart()</code><br>
+# Soon
+The 'log' argument - This argument will output information about the work of the code<br>
+The 'win10' argument - This argument can generate notifications for Windows 10 + icon<br>
